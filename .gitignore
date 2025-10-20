@@ -1,2 +1,8 @@
 Output
+Videos
+CLAUDE.md
 *.mp4
+build/
+dist/
+*.spec
+
