@@ -1,4 +1,3 @@
 openai-whisper
 yt-dlp
 browser-cookie3
-torch
